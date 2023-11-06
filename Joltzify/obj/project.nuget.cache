@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "srYKpZCR8JsB+k8gy+/DUukoLHX/AdBu1sUxmuu0jMgXmqRGK75K89zl9Ec5qLnphDQ2iMhPcX5NhA1zDvjB+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kuro\\Desktop\\Joltzify\\mainWebpage\\Joltzify\\Joltzify.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
